@@ -18,6 +18,6 @@ setup(
 
     keywords='swarm algorithms, python',
     install_requires=['numpy', 'matplotlib>=2.0.0', 'pandas', 'pytest'],
-    platforms='Unix, Windows'
+    platforms=['Unix', 'Windows']
 
 )
