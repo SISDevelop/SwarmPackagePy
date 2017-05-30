@@ -1,4 +1,3 @@
-
 *SwarmPackagePy* is the package, witch contains the following swarm optimization algorithms:
 
 1. Artificial Bee Algorithm
@@ -18,22 +17,21 @@
 
 Every algorithm has arguments listed below:
 
-#. n: number of agents
-#. function: test function
-#. lb: lower limits for plot axes
-#. ub: upper limits for plot axes
-#. dimension: space dimension
-#. iteration: number of iterations
+* n: number of agents
+* function: test function
+* lb: lower limits for plot axes
+* ub: upper limits for plot axes
+* dimension: space dimension
+* iteration: number of iterations
 
 Every algorithm has methods listed below:
 
-#. get_agents(): returns a history of all agents of the algorithm
-#. get_Gbest(): returns the best position of algorithm
+* get_agents(): returns a history of all agents of the algorithm
+* get_Gbest(): returns the best position of algorithm
 
-All documentation you can view github repository https://github.com/SISDevelop/SwarmPackagePy.
+All documentation you can view on the github repository https://github.com/SISDevelop/SwarmPackagePy.
 For all questions and suggestions contact us at swarm.team.dev@gmail.com. For more info you could also write to:
 
 * team leads - vllitskevich@gmail.com, polly.bartoshevic@gmail.com,
 * programmers - alexeymaleyko@gmail.com, b317.forinko@gmail.com, vladislaw.kapustin@gmail.com.
-
 
