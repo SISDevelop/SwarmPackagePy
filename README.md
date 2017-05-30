@@ -55,7 +55,7 @@ pip install SwarmPackagePy
 ```
 Or you can just clone this repository and at the main folder execute command:
 ```
-cd SwarmPackagePy
+cd SwarmPackagePy/
 python setup.py install
 ```
 
