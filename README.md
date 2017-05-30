@@ -20,7 +20,7 @@ Provides:<br>
 
 For all questions and suggestions contact us at swarm.team.dev@gmail.com. For more info you could also write to:<br>
 * team leads - vllitskevich@gmail.com, polly.bartoshevic@gmail.com,
-* programmers - alexeymaleyko@gmail.com, .
+* programmers - alexeymaleyko@gmail.com, b317.forinko@gmail.com, vladislaw.kapustin@gmail.com.
 
 ## Table of contents
 * [Installation](#installation)<br>
@@ -55,6 +55,7 @@ pip install SwarmPackagePy
 ```
 Or you can just clone this repository and at the main folder execute command:
 ```
+cd SwarmPackagePy
 python setup.py install
 ```
 

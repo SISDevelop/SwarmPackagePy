@@ -32,6 +32,6 @@ All documentation you can view `github repository <https://github.com/SISDevelop
 
 For all questions and suggestions contact us at swarm.team.dev@gmail.com. For more info you could also write to:
 * team leads - vllitskevich@gmail.com, polly.bartoshevic@gmail.com,
-* programmers - alexeymaleyko@gmail.com, .
+* programmers - alexeymaleyko@gmail.com, b317.forinko@gmail.com, vladislaw.kapustin@gmail.com.
 
 
