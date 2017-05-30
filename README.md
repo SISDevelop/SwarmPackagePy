@@ -43,10 +43,10 @@ For all questions and suggestions contact us at swarm.team.dev@gmail.com. For mo
 
 ### Installation
 #### Requirements
-- python (version >= 3.5 if you are going to run tests)<br>
+- python (version >= 3.5 if you are going to run tests; for all other actions you can use python any version)<br>
 - numpy<br>
 - pytest (if you are going to run tests)<br> 
-- matplotlib (if you are going to watch animation; for all other actions you can use python any version)<br> 
+- matplotlib (if you are going to watch animation)<br> 
 - pandas (if you are going to watch 3D animation)<br> 
 #### Installation
 You can install **SwarmPackagePy** from PyPI repositories using pip. Command bellow will do this:
