@@ -1,6 +1,6 @@
 
 
-*SwarmPackagePy* is the package, wich contains the following swarm optimization algorithms:
+*SwarmPackagePy* is the package, witch contains the following swarm optimization algorithms:
 1. Artificial Bee Algorithm
 2. Bat Algorithm
 3. Bacterial Foraging Optimization
