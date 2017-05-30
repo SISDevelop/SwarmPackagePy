@@ -2,10 +2,6 @@
 # SwarmPackagePy
 **SwarmPackagePy** is a Library of swarm optimization algorithms. It includes 14 optimization algorithms and each can be used for solving specific optimization problem. You can find the principles they operate on and pseudo codes  below.<br>
 
-For all questions and suggestions contact us at swarm.team.dev@gmail.com. For more info you could also write to:<br>
-* team leads - vllitskevich@gmail.com, polly.bartoshevic@gmail.com,
-* programmers - alexeymaleyko@gmail.com, .
-
 Provides:<br>
 - Swarm optimization algorithms.
 - Test functions for swarm algorithms.
@@ -21,6 +17,11 @@ Provides:<br>
 - **get_agents()**: returns a history of all agents of the algorithm
 - **get_Gbest()**: returns the best position of algorithm<br>
 <br>If an algorithm accepts some additional arguments or methods they will be described in its "Arguments" or "Methods" section.
+
+For all questions and suggestions contact us at swarm.team.dev@gmail.com. For more info you could also write to:<br>
+* team leads - vllitskevich@gmail.com, polly.bartoshevic@gmail.com,
+* programmers - alexeymaleyko@gmail.com, .
+
 ## Table of contents
 * [Installation](#installation)<br>
 * [Bacterial Foraging Optimization](#bacterial-foraging-optimization)<br>
