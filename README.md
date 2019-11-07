@@ -199,7 +199,7 @@ The gwo method has the following additional methods:<br>
 #### Method invocation
 The method can be invoked by passing the arguments in the following order:
 ```
-SwarmPackagePy.pso(n, function, lb, ub, dimension, iteration)
+SwarmPackagePy.gwo(n, function, lb, ub, dimension, iteration)
 ```
 ### Bat Algorithm
 #### Description
@@ -675,7 +675,14 @@ GSA operates with two laws:<br>
 7. Repeat steps 2 to 6 until the stop condition is reached.
 
 </pre>
-
+#### Arguments
+The gsa method accepts the following arguments:<br>
+- G0: gravity parameter (default value is 3)
+#### Method invocation
+The method can be invoked by passing the arguments in the following order:
+```
+SwarmPackagePy.gsa(n, function, lb, ub, dimension, iteration, G0=3)
+```
 ### Tests
 All algorithms were tested with different test functions. In fact, you can run tests for all the algorithms on your own. All you need to do is to open terminal (console) and insert the following line:
 ```
